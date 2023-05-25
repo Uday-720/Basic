@@ -1,0 +1,32 @@
+Bharath Rajesh - 7981626634.
+
+SDLC (Software Development Life Cycle)-
+it is used to increase the productivity of the company. 
+
+i)Requirements(language/OS/and other system criterias). To complete a project we need to forcast the requiremnets to complete the project.
+
+ii)Designing (ui/ux / wire frames). To make wireframes for the website or web apps and apps also.
+
+*iii)Development & Coding - To build a system architecture for an web app,website and apps is called development and coding.
+
+iv)Testing - To deduct the bug in the s/w is called as testing.
+
+v)Deployment - it is nthng but having access of the website / webapp/ apps to every user or specific user.It is done by the AWS and Devops team.
+
+vi)Maintenance - Whenever we deploy , IF we require any changes/update in the s/w we need to fix those bugs/defects/failures.
+
+=> Types of SDLC methods:-
+
+1)Iteration method.
+2)V Type SDLC / V&V(verification and validation)method.
+3)Spiral method.
+4)Waterfall method.
+*5)JIRA (Agile method-kanban & SCRUM).
+
+Ryver, Slack messaging tools used by big companies for their work updation.
+
+S/W- it is a collection of pgms which is used to perform specific tasks tu fulfill human needs/to make human life easy.
+
+Tasks- 
+Classification of programming language.
+front end , back end , Database, RPA(Robotic process Automation).
